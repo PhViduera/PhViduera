@@ -22,15 +22,15 @@
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-689DEB?style=for-the-badge&logo=javascript&labelColor=689DEB)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-CD853F?style=for-the-badge&logo=react&labelColor=CD853F)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-CD853F?style=for-the-badge&logo=javascript&labelColor=CD853F&textColor=CD853F)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-689DEB?style=for-the-badge&logo=react&labelColor=689DEB)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-689DEB?style=for-the-badge&logo=javascript&labelColor=CD853F&textColor=689DEB)&nbsp;
 
  <br> 
  <br>
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BibizPrado}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PhViduera}/count.svg" /></p> 
 <br>
 </div>
 
