@@ -17,14 +17,13 @@
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-689DEB?style=for-the-badge&logo=javascript&labelColor=689DEB)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-689DEB?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=689DEB)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-689DEB?style=for-the-badge&logo=react&labelColor=689DEB)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-689DEB?style=for-the-badge&logo=php&logoColor=purple&labelColor=689DEB)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-689DEB?style=for-the-badge&logo=html&logoColor=purple&labelColor=689DEB)&nbsp; 
 
 
 ### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-689DEB?style=for-the-badge&logo=javascript&labelColor=689DEB)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-CD853F?style=for-the-badge&logo=react&labelColor=CD853F)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-CD853F?style=for-the-badge&logo=javascript&labelColor=CD853F&textColor=CD853F)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-CD853F?style=for-the-badge&logo=node.js&labelColor=CD853F&textColor=CD853F)&nbsp;
 
  <br> 
  <br>
