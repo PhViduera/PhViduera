@@ -4,7 +4,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhViduera)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
 <div align="center"> 
 <a href = "mailto:cmp.1a.paulo.viduera@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
