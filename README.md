@@ -1,16 +1,42 @@
-<h1 align="center">Hi, my name is Paulo Henrique</h1>
-<h3 align="center">I´m a front-end programmer 💻</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paulo henrique chinaglia viduera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo henrique chinaglia viduera" height="30" width="40" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Beatriz+Prado;I'm+19+years+old;I'm+from+Brazil;I+Studant+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phviduera&show_icons=true&locale=en&layout=compact" alt="phviduera" /></p>
+[![Ashutosh's github activity graph][![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BibizPrado&bg_color=aa763c&color=ffffff&line=ffffff&point=752f2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phviduera&show_icons=true&locale=en" alt="phviduera" /></p>
+<div align="center"> 
+<a href = "mailto:cmp.1a.paulo.viduera@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-henrique-chinaglia-viduera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ <br>
+ <br>
+  
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-CD853F?style=for-the-badge&logo=javascript&labelColor=CD853F)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-CD853F?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=CD853F)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-CD853F?style=for-the-badge&logo=react&labelColor=CD853F)&nbsp;
+![Php](https://img.shields.io/badge/-php-CD853F?style=for-the-badge&logo=php&logoColor=purple&labelColor=CD853F)&nbsp; 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phviduera&" alt="phviduera" /></p>
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-CD853F?style=for-the-badge&logo=react&labelColor=CD853F)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-CD853F?style=for-the-badge&logo=javascript&labelColor=CD853F&textColor=CD853F)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-CD853F?style=for-the-badge&logo=node.js&labelColor=CD853F&textColor=CD853F)&nbsp;
+
+ <br> 
+ <br>
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BibizPrado}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=footer"/>
+
