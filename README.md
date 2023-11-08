@@ -23,7 +23,7 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-689DEB?style=for-the-badge&logo=javascript&labelColor=689DEB)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-689DEB?style=for-the-badge&logo=react&labelColor=689DEB)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-689DEB?style=for-the-badge&logo=javascript&labelColor=CD853F&textColor=689DEB)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-689DEB?style=for-the-badge&logo=javascript&labelColor=689DEB&textColor=689DEB)&nbsp;
 
  <br> 
  <br>
