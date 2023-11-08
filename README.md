@@ -15,10 +15,10 @@
  <br>
   
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-CD853F?style=for-the-badge&logo=javascript&labelColor=CD853F)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-CD853F?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=CD853F)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-CD853F?style=for-the-badge&logo=react&labelColor=CD853F)&nbsp;
-![Php](https://img.shields.io/badge/-php-CD853F?style=for-the-badge&logo=php&logoColor=purple&labelColor=CD853F)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-CD853F?style=for-the-badge&logo=javascript&labelColor=689DEB)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-CD853F?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=689DEB)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-CD853F?style=for-the-badge&logo=react&labelColor=689DEB)&nbsp;
+![Php](https://img.shields.io/badge/-php-CD853F?style=for-the-badge&logo=php&logoColor=purple&labelColor=689DEB)&nbsp; 
 
 
 ### Studying in this moment:
